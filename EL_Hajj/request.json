@@ -1,0 +1,17 @@
+[
+    {
+        "email": "email2@gmail.com",
+        "password": "helloworld",
+        "dateOfBirth": "2003-12-06",
+        "gender": "M",
+        "phone": "+213-055505555",
+        "firstName": "youness",
+        "lastName": "merz",
+        "city": "oran",
+        "province": 31
+    },
+    {
+        "email": "email3@gmail.com",
+        "password": "helloworld"
+    }
+]

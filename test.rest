@@ -1,0 +1,4 @@
+POST http://127.0.0.1:8000/draw_registration
+Content-Type: application/json
+
+{"email":"m.boukennouche@esi-sba.dz","password":"El_Hajj","id_role":[1]}

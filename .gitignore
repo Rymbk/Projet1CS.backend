@@ -1,0 +1,7 @@
+# Ignore virtual environment directory
+venv/
+EL_Hajj/haaj_pictures
+EL_Hajj/user_pictures
+
+# Ignore cache files
+**/__pycache__/
